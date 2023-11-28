@@ -35,7 +35,7 @@ Botswana,Africa,Global South
 Belarus,Europe,Global North
 Belize,South/Latin America,Global South
 Canada,North America,Global North
-Cocos (Keeling) Islands,Asia & Pacific,Global South
+Cocos (Keeling) Islands (Australia),Asia & Pacific,Global South
 "Congo, Dem. Rep.",Africa,Global South
 Central African Republic,Africa,Global South
 "Congo, Rep.",Africa,Global South
@@ -50,7 +50,7 @@ Costa Rica,South/Latin America,Global South
 Cuba,South/Latin America,Global South
 Cabo Verde,Africa,Global South
 Christmas Island,Asia & Pacific,Global South
-Northern Cyprus,Europe,Global North
+Cyprus,Europe,Global North
 Czechia,Europe,Global North
 Germany,Europe,Global North
 Djibouti,Arab States,Global South
@@ -67,7 +67,7 @@ Spain,Europe,Global North
 Ethiopia,Africa,Global South
 Finland,Europe,Global North
 Fiji,Asia & Pacific,Global South
-Falkland Islands,South/Latin America,Global South
+Falkland Islands (UK),South/Latin America,Global South
 "Micronesia, Fed. Sts.",Asia & Pacific,Global South
 Faroe Islands,Europe,Global North
 France,Europe,Global North
@@ -113,7 +113,7 @@ Kyrgyz Republic,Asia & Pacific,Global South
 Cambodia,Asia & Pacific,Global South
 Kiribati,Asia & Pacific,Global South
 Comoros,Arab States,Global South
-Saint Kitts and Nevis,South/Latin America,Global South
+St. Kitts And Nevis,South/Latin America,Global South
 "Korea, Dem. People'S Rep.",Asia & Pacific,Global South
 "Korea, Rep.",Asia & Pacific,Global North
 Kuwait,Middle east,Global South
@@ -172,7 +172,7 @@ Philippines,Asia & Pacific,Global South
 Pakistan,Asia & Pacific,Global South
 Poland,Europe,Global North
 Saint Pierre and Miquelon,North America,Global North
-Pitcairn Islands UK,Asia & Pacific,Global South
+Pitcairn Islands (UK),Asia & Pacific,Global South
 Puerto Rico,South/Latin America,Global South
 West Bank And Gaza,Arab States,Global South
 Portugal,Europe,Global North
@@ -252,3 +252,4 @@ Kosovo,European,Global North
 "Macao Sar, China",Asia & Pacific,Global North
 Transnistria,European,Global North
 British Virgin Islands,South/Latin America,Global South
+Curacao,South/Latin America,Global South
