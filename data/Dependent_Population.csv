@@ -1,242 +1,242 @@
-Country_Dependency
-China
-India
-United States
-Indonesia
-Pakistan
-Nigeria
-Brazil
-Bangladesh
-Russian Federation
-Mexico
-Japan
-Philippines
-Ethiopia
-"Egypt, Arab Rep."
-Vietnam
-"Congo, Dem. Rep."
-Turkiye
-Germany
-"Iran, Islamic Rep."
-Thailand
-France
-United Kingdom
-South Africa
-Tanzania
-Italy
-Myanmar
-Colombia
-Kenya
-"Korea, Rep."
-Spain
-Argentina
-Algeria
-Iraq
-Uganda
-Sudan
-Ukraine
-Canada
-Poland
-Morocco
-Uzbekistan
-Afghanistan
-Peru
-Malaysia
-Angola
-Mozambique
-Saudi Arabia
-"Yemen, Rep."
-Ghana
-Cote D'Ivoire
-Nepal
-"Venezuela, Rb"
-Cameroon
-Madagascar
-Australia
-"Korea, Dem. People'S Rep."
-Niger
-Taiwan
-Syrian Arab Republic
-Mali
-Burkina Faso
-Sri Lanka
-Malawi
-Kazakhstan
-Chile
-Zambia
-Romania
-Senegal
-Somalia
-Guatemala
-Netherlands
-Chad
-Cambodia
-Ecuador
-Zimbabwe
-Guinea
-South Sudan
-Rwanda
-Burundi
-Benin
-Bolivia
-Tunisia
-Papua New Guinea
-Belgium
-Haiti
-Jordan
-Cuba
-Czechia
-Dominican Republic
-Sweden
-Greece
-Portugal
-Azerbaijan
-Tajikistan
-Israel
-Honduras
-Hungary
-United Arab Emirates
-Belarus
-Austria
-Switzerland
-Sierra Leone
-Togo
-"Hong Kong Sar, China"
-Lao Pdr
-Kyrgyz Republic
-Turkmenistan
-Libya
-El Salvador
-Nicaragua
-Serbia
-Bulgaria
-Paraguay
-"Congo, Rep."
-Denmark
-Singapore
-Central African Republic
-Finland
-Norway
-Lebanon
-West Bank And Gaza
-Slovak Republic
-Ireland
-Costa Rica
-Liberia
-New Zealand
-Oman
-Kuwait
-Mauritania
-Panama
-Croatia
-Eritrea
-Georgia
-Uruguay
-Mongolia
-Bosnia And Herzegovina
-Puerto Rico
-Armenia
-Lithuania
-Jamaica
-Albania
-Qatar
-Namibia
-Moldova
-"Gambia, The"
-Botswana
-Lesotho
-Gabon
-Slovenia
-Latvia
-North Macedonia
-Guinea-Bissau
-Kosovo
-Bahrain
-Equatorial Guinea
-Estonia
-Trinidad And Tobago
-Timor-Leste
-Mauritius
-Eswatini
-Djibouti
-Cyprus
-Fiji
-Bhutan
-Comoros
-Guyana
-Solomon Islands
-"Macao Sar, China"
-Luxembourg
-Montenegro
-Suriname
-Western Sahara
-Malta
-Cabo Verde
-Brunei Darussalam
-Belize
-"Bahamas, The"
-Iceland
-Northern Cyprus
-Maldives
-Transnistria
-Vanuatu
-French Polynesia
-New Caledonia
-Barbados
-Abkhazia
-Sao Tome And Principe
-Samoa
-St. Lucia
-Guam
-Curacao
-Artsakh
-Kiribati
-Grenada
-St. Vincent And The Grenadines
-Aruba
-"Micronesia, Fed. Sts."
-Jersey
-Antigua And Barbuda
-Seychelles
-Tonga
-Virgin Islands (U.S.)
-Isle Of Man
-Andorra
-Cayman Islands
-Dominica
-Guernsey
-Bermuda
-Greenland
-South Ossetia
-Faroe Islands
-American Samoa
-Northern Mariana Islands
-St. Kitts And Nevis
-Turks And Caicos Islands
-Sint Maarten (Dutch Part)
-Marshall Islands
-Liechtenstein
-Monaco
-Gibraltar
-San Marino
-St. Martin (French Part)
-British Virgin Islands
-Åland
-Palau
-Anguilla
-Cook Islands
-Nauru
-Wallis And Futuna (France)
-Tuvalu
-Saint Barthélemy (France)
-Saint Pierre And Miquelon (France)
-"Saint Helena, Ascension And Tristan da Cunha (UK)"
-Montserrat (UK)
-Falkland Islands (UK)
-Norfolk Island (Australia)
-Christmas Island (Australia)
-Tokelau (NZ)
-Niue
-Vatican City
-Cocos (Keeling) Islands (Australia)
-Pitcairn Islands (UK)
+Country_Dependency,wikiCountry
+China,China
+India,India
+United States,United States
+Indonesia,Indonesia
+Pakistan,Pakistan
+Nigeria,Nigeria
+Brazil,Brazil
+Bangladesh,Bangladesh
+Russian Federation,Russia
+Mexico,Mexico
+Japan,Japan
+Philippines,Philippines
+Ethiopia,Ethiopia
+"Egypt, Arab Rep.",Egypt
+Vietnam,Vietnam
+"Congo, Dem. Rep.",DR Congo
+Turkiye,Turkey
+Germany,Germany
+"Iran, Islamic Rep.",Iran
+Thailand,Thailand
+France,France
+United Kingdom,United Kingdom
+South Africa,South Africa
+Tanzania,Tanzania
+Italy,Italy
+Myanmar,Myanmar
+Colombia,Colombia
+Kenya,Kenya
+"Korea, Rep.",South Korea
+Spain,Spain
+Argentina,Argentina
+Algeria,Algeria
+Iraq,Iraq
+Uganda,Uganda
+Sudan,Sudan
+Ukraine,Ukraine
+Canada,Canada
+Poland,Poland
+Morocco,Morocco
+Uzbekistan,Uzbekistan
+Afghanistan,Afghanistan
+Peru,Peru
+Malaysia,Malaysia
+Angola,Angola
+Mozambique,Mozambique
+Saudi Arabia,Saudi Arabia
+"Yemen, Rep.",Yemen
+Ghana,Ghana
+Cote D'Ivoire,Ivory Coast
+Nepal,Nepal
+"Venezuela, Rb",Venezuela
+Cameroon,Cameroon
+Madagascar,Madagascar
+Australia,Australia
+"Korea, Dem. People'S Rep.",North Korea
+Niger,Niger
+Taiwan,Taiwan
+Syrian Arab Republic,Syria
+Mali,Mali
+Burkina Faso,Burkina Faso
+Sri Lanka,Sri Lanka
+Malawi,Malawi
+Kazakhstan,Kazakhstan
+Chile,Chile
+Zambia,Zambia
+Romania,Romania
+Senegal,Senegal
+Somalia,Somalia
+Guatemala,Guatemala
+Netherlands,Netherlands
+Chad,Chad
+Cambodia,Cambodia
+Ecuador,Ecuador
+Zimbabwe,Zimbabwe
+Guinea,Guinea
+South Sudan,South Sudan
+Rwanda,Rwanda
+Burundi,Burundi
+Benin,Benin
+Bolivia,Bolivia
+Tunisia,Tunisia
+Papua New Guinea,Papua New Guinea
+Belgium,Belgium
+Haiti,Haiti
+Jordan,Jordan
+Cuba,Cuba
+Czechia,Czech Republic
+Dominican Republic,Dominican Republic
+Sweden,Sweden
+Greece,Greece
+Portugal,Portugal
+Azerbaijan,Azerbaijan
+Tajikistan,Tajikistan
+Israel,Israel
+Honduras,Honduras
+Hungary,Hungary
+United Arab Emirates,United Arab Emirates
+Belarus,Belarus
+Austria,Austria
+Switzerland,Switzerland
+Sierra Leone,Sierra Leone
+Togo,Togo
+"Hong Kong Sar, China",Hong Kong (China)
+Lao Pdr,Laos
+Kyrgyz Republic,Kyrgyzstan
+Turkmenistan,Turkmenistan
+Libya,Libya
+El Salvador,El Salvador
+Nicaragua,Nicaragua
+Serbia,Serbia
+Bulgaria,Bulgaria
+Paraguay,Paraguay
+"Congo, Rep.",Congo
+Denmark,Denmark
+Singapore,Singapore
+Central African Republic,Central African Republic
+Finland,Finland
+Norway,Norway
+Lebanon,Lebanon
+West Bank And Gaza,Palestine
+Slovak Republic,Slovakia
+Ireland,Ireland
+Costa Rica,Costa Rica
+Liberia,Liberia
+New Zealand,New Zealand
+Oman,Oman
+Kuwait,Kuwait
+Mauritania,Mauritania
+Panama,Panama
+Croatia,Croatia
+Eritrea,Eritrea
+Georgia,Georgia
+Uruguay,Uruguay
+Mongolia,Mongolia
+Bosnia And Herzegovina,Bosnia and Herzegovina
+Puerto Rico,Puerto Rico (US)
+Armenia,Armenia
+Lithuania,Lithuania
+Jamaica,Jamaica
+Albania,Albania
+Qatar,Qatar
+Namibia,Namibia
+Moldova,Moldova
+"Gambia, The",Gambia
+Botswana,Botswana
+Lesotho,Lesotho
+Gabon,Gabon
+Slovenia,Slovenia
+Latvia,Latvia
+North Macedonia,North Macedonia
+Guinea-Bissau,Guinea-Bissau
+Kosovo,Kosovo
+Bahrain,Bahrain
+Equatorial Guinea,Equatorial Guinea
+Estonia,Estonia
+Trinidad And Tobago,Trinidad and Tobago
+Timor-Leste,East Timor
+Mauritius,Mauritius
+Eswatini,Eswatini
+Djibouti,Djibouti
+Cyprus,Cyprus
+Fiji,Fiji
+Bhutan,Bhutan
+Comoros,Comoros
+Guyana,Guyana
+Solomon Islands,Solomon Islands
+"Macao Sar, China",Macau (China)
+Luxembourg,Luxembourg
+Montenegro,Montenegro
+Suriname,Suriname
+Western Sahara,Western Sahara
+Malta,Malta
+Cabo Verde,Cape Verde
+Brunei Darussalam,Brunei
+Belize,Belize
+"Bahamas, The",Bahamas
+Iceland,Iceland
+Northern Cyprus,Northern Cyprus
+Maldives,Maldives
+Transnistria,Transnistria
+Vanuatu,Vanuatu
+French Polynesia,French Polynesia (France)
+New Caledonia,New Caledonia (France)
+Barbados,Barbados
+Abkhazia,Abkhazia
+Sao Tome And Principe,São Tomé and Príncipe
+Samoa,Samoa
+St. Lucia,Saint Lucia
+Guam,Guam (US)
+Curacao,Curacao (Netherlands)
+Artsakh,Artsakh
+Kiribati,Kiribati
+Grenada,Grenada
+St. Vincent And The Grenadines,Saint Vincent and the Grenadines
+Aruba,Aruba (Netherlands)
+"Micronesia, Fed. Sts.",Micronesia
+Jersey,Jersey (UK)
+Antigua And Barbuda,Antigua and Barbuda
+Seychelles,Seychelles
+Tonga,Tonga
+Virgin Islands (U.S.),U.S. Virgin Islands (US)
+Isle Of Man,Isle of Man (UK)
+Andorra,Andorra
+Cayman Islands,Cayman Islands (UK)
+Dominica,Dominica
+Guernsey,Guernsey (UK)
+Bermuda,Bermuda (UK)
+Greenland,Greenland (Denmark)
+South Ossetia,South Ossetia
+Faroe Islands,Faroe Islands (Denmark)
+American Samoa,American Samoa (US)
+Northern Mariana Islands,Northern Mariana Islands (US)
+St. Kitts And Nevis,Saint Kitts and Nevis
+Turks And Caicos Islands,Turks and Caicos Islands (UK)
+Sint Maarten (Dutch Part),Sint Maarten (Netherlands)
+Marshall Islands,Marshall Islands
+Liechtenstein,Liechtenstein
+Monaco,Monaco
+Gibraltar,Gibraltar (UK)
+San Marino,San Marino
+St. Martin (French Part),Saint Martin (France)
+British Virgin Islands,British Virgin Islands (UK)
+Åland,Åland (Finland)
+Palau,Palau
+Anguilla,Anguilla (UK)
+Cook Islands,Cook Islands
+Nauru,Nauru
+Wallis And Futuna (France),Wallis and Futuna (France)
+Tuvalu,Tuvalu
+Saint Barthélemy (France),Saint Barthélemy (France)
+Saint Pierre And Miquelon (France),Saint Pierre and Miquelon (France)
+"Saint Helena, Ascension And Tristan da Cunha (UK)","Saint Helena, Ascension and Tristan da Cunha (UK)"
+Montserrat (UK),Montserrat (UK)
+Falkland Islands (UK),Falkland Islands (UK)
+Norfolk Island (Australia),Norfolk Island (Australia)
+Christmas Island (Australia),Christmas Island (Australia)
+Tokelau (NZ),Tokelau (NZ)
+Niue,Niue
+Vatican City,Vatican City
+Cocos (Keeling) Islands (Australia),Cocos (Keeling) Islands (Australia)
+Pitcairn Islands (UK),Pitcairn Islands (UK)
